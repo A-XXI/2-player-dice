@@ -1,3 +1,3 @@
 # 2-player-dice
-just a little fun javascript project for prectice 
+just a little fun javascript project for practice 
 :p 
